@@ -5,5 +5,4 @@ To install dependencies and read full documentation, please vitis the link below
 https://github.com/reo7sp/tgbot-cpp
 
 I have also uploaded the Persian/Farsi description of this project (a PDF file). If I ever have the time, I will translate it into English. 
-You can take a look at the screenshots to understand how this bot works.
 I hope you find this educating.
