@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sz/Codes/CLionProjects/Telegram-Bot/MyUser.h
+string
+-
+tgbot/Bot.h
+-
+
+/home/sz/Codes/CLionProjects/Telegram-Bot/ReaderWriter.h
+string
+-
+vector
+-
+fstream
+-
+tgbot/tgbot.h
+-
+
+/home/sz/Codes/CLionProjects/Telegram-Bot/main.cpp
+csignal
+-
+cstdio
+-
+cstdlib
+-
+exception
+-
+string
+-
+tgbot/tgbot.h
+-
+ReaderWriter.h
+/home/sz/Codes/CLionProjects/Telegram-Bot/ReaderWriter.h
+MyUser.h
+/home/sz/Codes/CLionProjects/Telegram-Bot/MyUser.h
+

@@ -1,0 +1,3 @@
+/home/sz/Codes/CLionProjects/Telegram-Bot/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sz/Codes/CLionProjects/Telegram-Bot/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sz/Codes/CLionProjects/Telegram-Bot/cmake-build-debug/CMakeFiles/Telegram_Bot.dir

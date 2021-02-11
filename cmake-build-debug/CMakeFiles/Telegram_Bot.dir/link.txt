@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -Wall -g   CMakeFiles/Telegram_Bot.dir/main.cpp.o CMakeFiles/Telegram_Bot.dir/ReaderWriter.cpp.o CMakeFiles/Telegram_Bot.dir/MyUser.cpp.o  -o Telegram_Bot  /usr/local/lib/libTgBot.a -lpthread /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so /usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0 /usr/lib/x86_64-linux-gnu/libcurl.so 
